@@ -1,0 +1,9 @@
+@charset "UTF-8";
+*{
+    margin:0px auto;
+    padding: 0px;
+}
+body{
+    font-size: 12px;
+    font-family: "Microsoft JhengHei",Arial;
+}
