@@ -14,7 +14,7 @@
   ```
   npm install --save-dev file-loader
   ```
-#加载数据
+加载数据
   ```
   npm install --save-dev csv-loader xml-loader
   
